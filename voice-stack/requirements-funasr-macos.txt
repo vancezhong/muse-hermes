@@ -1,0 +1,9 @@
+# Versions installed and checked for the Muse FunASR WebSocket service on Apple Silicon.
+funasr==1.4.16
+modelscope==1.40.1
+numpy==1.26.4
+scipy==1.13.1
+torch==2.3.1
+torchaudio==2.3.1
+transformers==4.51.3
+websockets==16.1.1

@@ -1,0 +1,13 @@
+{
+  "name": "Muse — Hermes 对话",
+  "short_name": "Muse",
+  "description": "一个连接本地 Hermes 的轻量对话界面。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#f7f8fa",
+  "icons": [
+    { "src": "/muse.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

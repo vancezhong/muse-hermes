@@ -1,0 +1,38 @@
+# Dependencies and generated frontend assets
+node_modules/
+dist/
+coverage/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+
+# Local speech environments, models, and audio captures
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+pretrained_models/
+voice-models/
+models/
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.wav
+*.pcm
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
+*.log

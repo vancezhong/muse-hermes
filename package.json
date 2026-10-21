@@ -1,0 +1,22 @@
+{
+  "name": "muse-hermes",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "dompurify": "^3.4.16",
+    "lucide-vue-next": "^1.0.0",
+    "marked": "^18.0.14",
+    "vue": "^3.5.43",
+    "ws": "^8.22.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.9",
+    "vite": "^8.3.1"
+  }
+}
